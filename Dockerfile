@@ -14,7 +14,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 8181
 
 # Comando para ejecutar la aplicación Flask
-CMD ["python", "app.py"]
+#CMD ["python", "app.py"]
+CMD ["flask", "run", "--host=0.0.0.0", "--port=8585"]
 
 
 

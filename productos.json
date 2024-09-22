@@ -16,5 +16,23 @@
         "nombre": "Lámpara",
         "descripcion": "Una lámpara moderna para iluminar tu hogar.",
         "imagen": "images/lampara.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Librera",
+        "descripcion": "Mueble con estantes para colocar libros",
+        "imagen": "images/Librera.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Credenza",
+        "descripcion": "armario bajo y ancho, de varias piezas, para guardar vasos, platos, etc.",
+        "imagen": "images/Credenza.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Tocador",
+        "descripcion": "Mueble, por lo común en forma de mesa, con espejo y otros utensilios, para el peinado y aseo de una persona.",
+        "imagen": "images/tocador.jpg"
     }
 ]
